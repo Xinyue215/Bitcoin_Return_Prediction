@@ -1,6 +1,7 @@
 # Bitcoin Return Prediction
 
 This prject predicts the daily return of bitcoin from 7/1/2017 to 3/30/2022 using historical bitcoin data from 9/17/2014 to 6/30/2017.
+
 Since plotly was used in the notebook, please visit https://nbviewer.org/github/Xinyue215/Bitcoin_Return_Prediction/blob/main/Bitcoin_Return_Prediction.ipynb for a better view of the notebook.
 
 ## Bitcoin price overview
